@@ -89,9 +89,9 @@ The two queries share zero keywords — retrieved purely through semantic simila
 
 | Metric | Result |
 |---|---|
-| Severity MAE | 0.0 (exact match on structured test set) |
+| Severity MAE | 0.25 |
 | Escalation Recall | 100% (zero missed escalations) |
-| Escalation Precision | 89% (1 over-escalation out of 9) |
+| Escalation Precision | 80% (2 over-escalation out of 10) |
 
 > **Limitation:** Test cases were deliberately distinct across severity levels. Real-world performance would require stress testing on sarcastic queries, multilingual input, and vague complaints where intent is ambiguous.
 
