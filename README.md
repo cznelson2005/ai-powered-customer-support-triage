@@ -93,7 +93,7 @@ The two queries share zero keywords — retrieved purely through semantic simila
 | Escalation Recall | 100% (zero missed escalations) |
 | Escalation Precision | 89% (1 over-escalation out of 9) |
 
-> **Limitation:** Test cases were deliberately distinct across severity levels. Real-world performance would require stress testing on sarcastic queries, multilingual input, and vague complaints where intent is ambiguous. Next step: [RAGAS](https://github.com/explodinggradients/ragas) framework to evaluate retrieval precision and answer faithfulness.
+> **Limitation:** Test cases were deliberately distinct across severity levels. Real-world performance would require stress testing on sarcastic queries, multilingual input, and vague complaints where intent is ambiguous.
 
 ---
 
