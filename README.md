@@ -111,7 +111,7 @@ The two queries share zero keywords — retrieved purely through semantic simila
 | Component | Tool |
 |---|---|
 | Vector Database | Pinecone (serverless, cosine similarity) |
-| LLM | Gemini 1.5 Flash |
+| LLM | Gemini 2.5 Flash |
 | Embeddings | Google text-embedding-004 (3072 dimensions) |
 | Dataset | [Bitext Customer Support](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset) (26,872 rows, 27 intents) |
 | Environment | Google Colab (Python) |
