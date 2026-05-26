@@ -1,0 +1,7 @@
+google-generativeai==0.8.6
+pinecone
+datasets
+tqdm
+pandas
+matplotlib
+numpy
