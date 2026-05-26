@@ -170,7 +170,7 @@ ai-powered-customer-support-triage/
 ├── README.md
 ├── requirements.txt
 │
-├── notebook/
+├── code/
 │   └── Customer Support Triage.ipynb
 │
 ├── docs/
